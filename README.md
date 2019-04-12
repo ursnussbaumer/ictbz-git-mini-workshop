@@ -1,4 +1,4 @@
-# ICT-BZ Mini-Workshop: GitHub als Plattform für Kursunterlagen nutzen? 
+# Julian's Mini-Workshop: GitHub als Plattform für Kursunterlagen nutzen? 
 
 Bei ICT-Berufsbildung Zentralschweiz haben einige Instruktoren ihre Kursunterlagen über GitHub organisiert. Beispiel: [Modul 307](https://github.com/IctBerufsbildungZentralschweiz/modul-307)
 
