@@ -22,7 +22,7 @@ Ein Versionsverwaltungssystem bietet also die Möglichkeit, jederzeit zu einem v
 
  Git ist eine sogenannt "Verteilte Versionsverwaltung". Bei verteilten Versionsverwaltungen erhalten die Anwender nicht einfach den letzten Snapshot des Projektes von einem Server, sondern eine **vollständige Kopie des gesamten Repositories**. 
 
-![Bild 1](res/Bild_1.jpg)
+![Bild 1](res/bild_1.jpg)
 
 Auf diese Weise kann, wenn ein Server beschädigt wird, jedes beliebige Repository von jedem beliebigen Anwenderrechner zurückkopiert werden und der Server so wiederhergestellt werden. Jede Kopie, ein sogenannter Klon (engl. clone), ist ein vollständiges Backup der gesamten Projektdaten.
 
@@ -42,7 +42,7 @@ Die drei Zustände führen uns direkt zu den drei Hauptbereichen eines Git Proje
 - das Arbeitsverzeichnis (Working Directory)
 - die Staging-Area
 
-![Bild 2](res/Bild_2.jpg)
+![Bild 2](res/bild_2.jpg)
 
 ### Git Directory
 
@@ -60,7 +60,7 @@ Die Staging Area ist einfach eine Datei, normalerweise befindet sich diese im Gi
 
 Die grundlegenden Arbeitsschritte bei der Arbeit mit Git sind: 
 
-![Bild 3](res/Bild_3.jpg)
+![Bild 3](res/bild_3.jpg)
 
 ## Werkzeuge 
 

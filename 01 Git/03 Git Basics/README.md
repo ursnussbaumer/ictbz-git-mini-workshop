@@ -6,7 +6,7 @@ Los geht's! Du wirst nun deine ersten Schritte mit Git machen und die ersten Git
 
 Es gibt zwei Möglichkzeiten, ein Git-Repository auf deinem Rechner anzulegen. 
 
-![Bild 1](res/Bild_1.jpg)
+![Bild 1](res/bild_1.jpg)
 
 ### Ein neues Repository initialisieren
 

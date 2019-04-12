@@ -10,13 +10,13 @@ Wenn du den Link geöffnet hast und das Repository im Browser siehst, dann befol
 
 Klicke auf die grüne Schalftfläche "Clone or download" und kopiere die URL in die Zwischenablage. 
 
-![Bild 2](res/Bild_2.jpg)
+![Bild 2](res/bild_2.jpg)
 
 ### Schritt 2 
 
 Wir verwenden Git GUI, um das Repo zu klonen. Öffne also Git GUI und klicke auf den Link "Clone Existing Repository"
 
-![Bild 3](res/Bild_3.jpg)
+![Bild 3](res/bild_3.jpg)
 
 ### Schritt 3
 
@@ -26,7 +26,7 @@ Wir verwenden Git GUI, um das Repo zu klonen. Öffne also Git GUI und klicke auf
 
 (3) Klicke auf den Button "Clone".
 
-![Bild 4](res/Bild_4.jpg)
+![Bild 4](res/bild_4.jpg)
 
 Wenn alles geklappt hat, findest du im Ziel-Verzeichnis auf deinem Rechner das geklonte Git-Repo mit den Projekt-Dateien.
 
